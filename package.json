@@ -1,0 +1,18 @@
+{
+  "name": "vite-project",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "element-ui": "^2.15.1",
+    "esbuild": "0.9.7",
+    "vite-plugin-vue2": "1.5.1",
+    "vue": "^2.0.0"
+  },
+  "devDependencies": {
+    "vite": "^2.2.4"
+  }
+}
